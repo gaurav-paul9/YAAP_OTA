@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1779467161,
+      "filename": "YAAP-16-HOMEMADE-aston-20260522.zip",
+      "payload": [
+        {
+          "offset": 4805,
+          "FILE_HASH": "alkJSQ8mSx8hdy6c4BBoqRwIPQJMCkF2Oyz+djX8pho=",
+          "FILE_SIZE": "2784256879",
+          "METADATA_HASH": "IG4BRRSENv123tC0bcjBc+2WvqwURphpwwBDoQ34NKo=",
+          "METADATA_SIZE": "176674"
+        }
+      ]
+    }
+  ]
+}
