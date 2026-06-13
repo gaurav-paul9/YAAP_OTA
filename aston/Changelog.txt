@@ -1,2 +1,18 @@
-Device:
-• Initial Release
+ROM:
+• MD3 theme files app (DocumentsUI)
+• Implement option to change notification shade opacity
+• Implement an option for making navbar gesture handle invisible
+• Fix circle to search with navbar handle invisible
+• Aperture: rebase and update
+• Gapps: set CredentialManager as default password manager
+• Lindroid: implement power mode support
+• Lindroid: halt vblanks and rendering when app is in background
+• Update certified props
+
+Device: 
+• Added Lindroid Support
+• Synced auto-brightness curve with stock OOS 
+• Power Optimisations
+• Firmware Included
+• Kernel Upstreamed to 5.15.207
+• Updated blobs/firmware from OOS 16.0.5.702(EX01)
